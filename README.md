@@ -1,6 +1,8 @@
 # Android_Assets_AssetExtractor
-Android Assets Extractor
-# 🔐 AssetExtractor for Android (Java + Pyjnius)
+
+# 🔐 AssetExtractor for Android (Java + Pyjnius + Python Encryption)
+
+> Created by **SK Sahil** ([@sahil-pixel](https://github.com/sahil-pixel))
 
 A secure utility to extract **plain or AES-encrypted ZIP files** from Android APK assets using Java and call it from Python with [Pyjnius](https://github.com/kivy/pyjnius). Works seamlessly with Kivy + Buildozer apps.
 
